@@ -1,15 +1,16 @@
-#Testar a igualdade através do ==.
+# Testar a igualdade através do ==.
 
-#Além do == (igualdade), > (maior) e < (menor), também temos >= (maior ou igual), <= (menor ou igual) e != (diferente).
+# Além do == (igualdade), > (maior) e < (menor), também temos >= (maior ou igual), <= (menor ou igual) e != (diferente).
 
-#Todas as operadores de comparação: 
-# < - menor que 
-# > - maior que
-# <= - menor ou igual a
-# >= - maior ou igual a
-# == - igual a
-# != - diferente de
-
+"""
+Todas as operadores de comparação: 
+< - menor que 
+> - maior que
+<= - menor ou igual a
+>= - maior ou igual a
+== - igual a
+!= - diferente de
+"""
 
 print("Bem vindo ao jogo de Adivinhação!")
 

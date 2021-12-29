@@ -1,4 +1,4 @@
-#String (texto)
+# String (texto)
 curso = 'Introdução ao Wordpress'
 
 # Inteiro (integer, int)

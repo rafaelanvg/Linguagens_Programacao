@@ -104,9 +104,7 @@ categorias_do_curso = [
   ['programação', 'wordpress']
 ]
 
-
-
-# categorias selecionadas
+# Categorias selecionadas
 categorias_selecionadas = []
 for n in ncategorias:
   categorias_selecionadas.append(categorias[n].upper())
